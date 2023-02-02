@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+   font-size: 62.5%; 
+}
+.clear {
+    clear: both;
+}
+body{
+    margin: auto;
+    max-width: 95%;
+}
+   h1{
+    font-size: 4.8rem;
+   }
+   h2{
+    font-size: 3.6rem;
+    padding: 5rem 0rem;
+   }
+   a{
+    color: black;
+    text-decoration: none;
+    font-size: 2.4rem;
+   }
+   h3{
+    font-size: 2.8rem;
+   }
+   button{
+    font-size: 1.8rem;
+   }
+   nav{
+    background: darkred;
+    color: white;
+   }
+   nav h1{
+    float:left;
+   }
+   nav ul{
+    float:right;
+    list-style: none;
+   
+   }
+   nav li{
+    float:left;
+    margin: 0rem 4rem;
+    color: white;
+   }
+   .info-section{
+    background-image: url("istockphoto-1225553594-612x612.jpg");
+    height: 50rem;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding-top: 15rem;
+    text-shadow: 3px 3px 10px black;
+   }
+   .info-section button{
+    margin-top: 5rem;
+    padding: 1rem 4rem;
+    cursor: pointer;
+    color: white;
+    text-emphasis: bold;
+    background: darkred;
+    border: none;
+   }
+   .info-section h2,h3,button{
+    margin-left: 3rem;
+   }
+   .form-section{
+    text-align: center;
+    font-size: 2.4rem;
+   }
+   form input, form label, form textarea {
+    display: block;
+   }
+   form input, form textarea {
+    margin:1rem auto;
+    width:50%;
+   }
+   form button{
+    margin-top: 1rem;
+    padding: 1rem 4rem;
+    cursor: pointer;
+    color: white;
+    text-emphasis: bold;
+    background: darkred;
+    border: none;
+    width:50%;
+   }
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
